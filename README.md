@@ -2,12 +2,12 @@
 
 Repository for Data Science and the Arts Midterm Project
 
-Project Team: 
-- Team Member1, member1@ucsd.edu
-- Team Member2, member2@ucsd.edu
-- Team Member3, member3@ucsd.edu
-- Team Member4, member4@ucsd.edu
-- Team Member5, member5@ucsd.edu
+Project Team Members: 
+- Firstname Lastname1, name1@ucsd.edu
+- Firstname Lastname2, name2@ucsd.edu
+- Firstname Lastname3, name3@ucsd.edu
+- Firstname Lastname4, name4@ucsd.edu
+- Firstname Lastname5, name5@ucsd.edu
 
 ## Abstract Proposal
 
