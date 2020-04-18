@@ -11,7 +11,7 @@ Project Team Members:
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be three paragraphs clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be three paragraphs clearly describing your concept and approach. What are your desired analytic goals? How are you expanding on something we covered in the class? How will you present your work as a visualization, sonification, website, etc?
 
 Paragraph 1: What is the cultural data that you are analyzing, what is your research question, and what is your hypothesis about the results.
 
