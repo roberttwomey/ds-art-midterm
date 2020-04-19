@@ -2,7 +2,7 @@
 
 Repository for Data Science and the Arts Midterm Project
 
-Project Team Members: 
+Project Team Members (5 total): 
 - Firstname Lastname1, name1@ucsd.edu
 - Firstname Lastname2, name2@ucsd.edu
 - Firstname Lastname3, name3@ucsd.edu
@@ -11,30 +11,27 @@ Project Team Members:
 
 ## Abstract Proposal
 
-Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be three paragraphs clearly describing your concept and approach. What are your desired analytic goals? How are you expanding on something we covered in the class? How will you present your work as a visualization, sonification, website, etc?
+Write up a description (in the form of an abstract) of your proposed effort for the midterm project. This should be three paragraphs clearly describing your concept and approach. What are your desired analytic goals? How are you expanding on something we covered in the class? How will you present your results as a visualization, sonification, website, etc?
 
 Paragraph 1: What is the cultural data that you are analyzing, what is your research question, and what is your hypothesis about the results.
 
 Paragraph 2: What are the features (and feature extraction techniques) you propose to ask the question. 
 
-Paragraph 3: What form will your output take? (visualizations, sonification, etc.)
+Paragraph 3: How will you present your results? (visualizations, sonification, short paper, etc.)
 
 ## Team Roles
 
-Accounting for team member efforts and contributions in terms of specific tasks you accomplished for this work. 
+Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
 ## Code
 
+Your code should be executable on datahub, should we choose to replicate your result. This includes data acquisition/scraping, analysis, and computiung results. Link to your notebooks/.py files in this section, and provide a brief explanation of what the code does.
 
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+- image files (`.jpg`, `.png` or whatever else is appropriate)
+- report as `.pdf`
 
 ## Technical Notes and Dependencies
 
