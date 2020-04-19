@@ -16,19 +16,17 @@ The first project for Data Science and the Arts is a quantiative cultural analys
 3. write code to extract meaningful/descriptive features
 4. write an analysis notebook that produces analysis results. 
 
-The project should be similar in scope to the Manovich Rothko/Mondrian analyses, Music Information Retrieval classification, or other examples I will show in class on Tuesday.
+The project should be similar in scope to the Manovich Rothko/Mondrian analyses, Music Information Retrieval classification, or other examples I will show in class on Tuesday. For the project proposal, please clone this repository and write up a description (in the form of an abstract) of your proposed effort for the midterm project. Note: You should replace the entire contents of the following section with the three paragraphs covering the points described below.
 
 ## Abstract
 
-For the project proposal, please clone this repository and write up a description (in the form of an abstract) of your proposed effort for the midterm project. This should be three paragraphs clearly describing your concept and approach:
+Replace this text with three paragraphs clearly describing your concept and approach:
 
 - Paragraph 1: What is the cultural data set that you are analyzing? Why is it interesting? What is your research question? What is your hypothesis about the results?
 
 - Paragraph 2: What are the features (and feature extraction techniques) you propose to ask the question? How does this approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? How are you expanding on the techniques we have covered in class? What analyses will you implement?
 
 - Paragraph 3: How will you present your results? (visualizations, sonification, short paper, etc.)
-
-NOTE: In your team repository, you should replace the entire contents of this "Abstract" with the three paragraphs described above.
 
 ## Data
 
