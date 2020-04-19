@@ -9,8 +9,6 @@ Project Team Members:
 - Firstname Lastname4, name4@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
-## Abstract
-
 The first project for Data Science and the Arts is a quantiative cultural analysis addressing a data set of your choosing. You will need to: 
 
 1. identify a cultural data set
@@ -19,6 +17,8 @@ The first project for Data Science and the Arts is a quantiative cultural analys
 4. write an analysis notebook that produces analysis results. 
 
 The project should be similar in scope to the Manovich Rothko/Mondrian analyses, Music Information Retrieval classification, or other examples I will show in class on Tuesday.
+
+## Abstract
 
 For the project proposal, please clone this repository and write up a description (in the form of an abstract) of your proposed effort for the midterm project. This should be three paragraphs clearly describing your concept and approach:
 
