@@ -1,6 +1,6 @@
 # Project Title
 
-Repository for Data Science and the Arts Midterm Project
+DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members (5 total): 
 - Firstname Lastname1, name1@ucsd.edu
@@ -11,9 +11,10 @@ Project Team Members (5 total):
 
 ## Abstract Proposal
 
+The first project for Data Science and the Arts is a quantiative cultural analysis addressing the  similar to cultural analytics, Music Information Retrieval, or addressing some other form of artistic/cultural data.
 Write up a description (in the form of an abstract) of your proposed effort for the midterm project. This should be three paragraphs clearly describing your concept and approach. What are your desired analytic goals? How are you expanding on something we covered in the class? How will you present your results as a visualization, sonification, website, etc?
 
-Paragraph 1: What is the cultural data that you are analyzing, what is your research question, and what is your hypothesis about the results.
+Paragraph 1: What is the cultural data that you are analyzing, what is your research question, and what is your hypothesis about the results?
 
 Paragraph 2: What are the features (and feature extraction techniques) you propose to ask the question. 
 
