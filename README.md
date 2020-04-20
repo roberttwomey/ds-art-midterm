@@ -14,7 +14,7 @@ The first project for Data Science and the Arts is a quantiative cultural analys
 1. identify a cultural data set
 2. write code to scrape that data locally to datahub
 3. write code to extract meaningful/descriptive features
-4. write an analysis notebook that produces analysis results. 
+4. write analysis code that produces results
 
 For the project proposal, please clone this repository and write up a description (in the form of an abstract) of your proposed effort for the midterm project. Note: You should replace the entire contents of the following section with the three paragraphs covering the points described below.
 
