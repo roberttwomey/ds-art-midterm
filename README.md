@@ -11,7 +11,7 @@ Project Team Members:
 
 ## Abstract
 
-Replace this text with three paragraphs clearly describing your concept and approach:
+For the project proposal, replace this text with three paragraphs clearly describing your concept and approach:
 
 - Paragraph 1: What is the cultural data set that you are analyzing? Why is it interesting? What is your research question? What is your hypothesis about the results?
 
