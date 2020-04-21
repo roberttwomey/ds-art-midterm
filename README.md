@@ -29,7 +29,7 @@ For the project proposal, please write a short abstact addressing the questions 
 
 (10 points) 
 
-This section will describe your data and its origins with links to the source, and necessary background material:
+This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
 - When was it made? 
 - Who created the works? 
@@ -39,7 +39,14 @@ This section will describe your data and its origins with links to the source, a
 
 (20 points)
 
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for data acquisition/scraping, cleaning, analysis, and computing results. Link your notebooks/.py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
+This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
+
+- data acquisition/scraping
+- cleaning
+- analysis
+- generating results. 
+
+Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
@@ -53,11 +60,11 @@ This section will contain links to documentation of your results. This can inclu
 
 ## Discussion
 
-(30 points)
+(30 points, three to five paragraphs)
 
-The first paragraph should be a short summary describing your results. (Three to five paragraphs)
+The first paragraph should be a short summary describing your results.
 
-Questions to address in subsequent paragraphs could include:
+The subsequent paragraphs could address questions including:
 - Why is this culturally relevant?
 - How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
 - How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
