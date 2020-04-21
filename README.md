@@ -11,17 +11,20 @@ Project Team Members:
 
 ## Abstract
 
-For the project proposal, you should replace the entire contents of this section with the three paragraphs covering the points described below:
+For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
 
-- Paragraph 1: What is the cultural data set that you are analyzing? Why is it interesting? Where will you obtain it from? 
-
-- Paragraph 2: What is your research question? What is your hypothesis about the results? How will you present your results? (visualizations, sonification, short paper, etc.)
-
-- Paragraph 3: What are the features you propose to ask the question? What feature extraction techniques will you use to extract these features? (include links in reference section below) How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? How are you expanding on the techniques we have covered in class?
+- What is the data set that you are going to analyze?
+- What is your research question? 
+- What is your hypothesis about the results? 
+- What features of the data will you use to address your question? 
+- What techniques and software tools will you use? 
+- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
+- How are you expanding on topics we have covered in class? 
+- Why is it interesting? (personally, culturally, politically, other)
 
 ## Data
 
-This section should describe your data and its origins with links to the source, and necessary background material:
+This section will describe your data and its origins with links to the source, and necessary background material:
 - What is your cultural data source? 
 - When was it made? 
 - Who created the works? 
@@ -31,23 +34,35 @@ This section should describe your data and its origins with links to the source,
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for data acquisition/scraping, cleaning, analysis, and computing results. Link your notebooks/.py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
-## Results
-
-This section will contain links to documentation of your work in an appropriate format to convey your results. This can include both embedded images of figures you have produced, short summary text, and links to files with brief descriptions, appropriate to your domain of analysis, including:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
-
-## Team Roles
-
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
-
 ## Technical Notes and Dependencies
 
 Any implementation details or notes we need to repeat your work. 
 - Additional libraries you are using for this project
 - Does this code require other pip packages, software, etc?
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+
+## Results
+
+This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
+
+- image files (`.jpg`, `.png` or whatever else is appropriate)
+- audio files (`.wav`, `.mp3`)
+- written text as `.pdf`
+
+## Discussion
+
+The first paragraph should be a short summary describing your results. (Three to five paragraphs)
+
+Questions to address in subsequent paragraphs could include:
+- Why is this culturally relevant?
+- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
+- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
+- How do your results relate to broader social, cultural, economic political, etc., issues? 
+- In what future directions could you expand this work?
+
+## Team Roles
+
+Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
 ## Reference
 
