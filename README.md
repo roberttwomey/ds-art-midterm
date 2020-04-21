@@ -11,6 +11,8 @@ Project Team Members:
 
 ## Abstract
 
+(10 points) 
+
 For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
 
 - What is the data set that you are going to analyze?
@@ -25,6 +27,8 @@ For the project proposal, please write a short abstact addressing the questions 
 
 ## Data
 
+(10 points) 
+
 This section will describe your data and its origins with links to the source, and necessary background material:
 - What is your cultural data source? 
 - When was it made? 
@@ -33,16 +37,13 @@ This section will describe your data and its origins with links to the source, a
 
 ## Code
 
+(20 points)
+
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for data acquisition/scraping, cleaning, analysis, and computing results. Link your notebooks/.py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
-## Technical Notes and Dependencies
-
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
-
 ## Results
+
+(30 points) 
 
 This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
 
@@ -51,6 +52,8 @@ This section will contain links to documentation of your results. This can inclu
 - written text as `.pdf`
 
 ## Discussion
+
+(30 points)
 
 The first paragraph should be a short summary describing your results. (Three to five paragraphs)
 
@@ -64,6 +67,13 @@ Questions to address in subsequent paragraphs could include:
 ## Team Roles
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+
+## Technical Notes and Dependencies
+
+Any implementation details or notes we need to repeat your work. 
+- Additional libraries you are using for this project
+- Does this code require other pip packages, software, etc?
+- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
 
