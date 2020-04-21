@@ -17,7 +17,8 @@ For the project proposal, please write a short abstact addressing the questions 
 - What is your research question? 
 - What is your hypothesis about the results? 
 - What features of the data will you use to address your question? 
-- What techniques and software tools will you use? 
+- What techniques and software tools will you use to extract these features?
+- What analytic techniques will you use?
 - What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
 - How are you expanding on topics we have covered in class? 
 - Why is it interesting? (personally, culturally, politically, other)
