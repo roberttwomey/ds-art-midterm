@@ -21,7 +21,7 @@ For the project proposal, you should replace the entire contents of this section
 
 ## Data
 
-In the final submission, this section should describe your data and its origins with links to the source, and necessary background material:
+This section should describe your data and its origins with links to the source, and necessary background material:
 - What is your cultural data source? 
 - When was it made? 
 - Who created the works? 
@@ -29,11 +29,11 @@ In the final submission, this section should describe your data and its origins 
 
 ## Code
 
-In the final submission, this section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for data acquisition/scraping, cleaning, analysis, and computing results. Link your notebooks/.py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
+This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for data acquisition/scraping, cleaning, analysis, and computing results. Link your notebooks/.py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
-In the final submission, this section will contain links to documentation of your work in an appropriate format to convey your results. This can include both embedded images of figures you have produced, short summary text, and links to files with brief descriptions, appropriate to your domain of analysis, including:
+This section will contain links to documentation of your work in an appropriate format to convey your results. This can include both embedded images of figures you have produced, short summary text, and links to files with brief descriptions, appropriate to your domain of analysis, including:
 - image files (`.jpg`, `.png` or whatever else is appropriate)
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
